@@ -1,49 +1,82 @@
-INTERNAL USE SOFTWARE LICENSE AGREEMENT (PERPETUAL)
+THỎA THUẬN CẤP PHÉP SỬ DỤNG PHẦN MỀM CHO MỤC ĐÍCH NỘI BỘ (VÔ THỜI HẠN)
 
-Copyright (c) 2025 Trần Tuấn Khương. All rights reserved.
+Bản quyền Copyright (c) 2025 Trần Tuấn Khương. Mọi quyền đều được bảo lưu.
 
-This Internal Use Software License Agreement (the "Agreement") is made and entered into by and between the parties set forth below.
+Giữa các bên sau đây, thỏa thuận như sau:
 
-Parties Licensor: Trần Tuấn Khương Licensee: SUK Pickleball
+1. Các bên
+   Bên cấp phép: Trần Tuấn Khương
+   Bên được cấp phép: SUK Pickleball
 
-Definitions 2.1 "Software" means the executable programs, libraries, documentation, configuration files, technical materials, and any related deliverables provided by Licensor to Licensee under this Agreement, whether delivered in source code or object code form. 2.2 "Internal Use" means use of the Software solely by Licensee's employees, contractors, or agents for Licensee's internal business operations and not for the benefit of any third party.
+2. Định nghĩa
+   2.1 "Phần mềm" hiểu là chương trình máy tính dưới dạng tệp thực thi, thư viện, tài liệu hướng dẫn, cấu hình, tài liệu kỹ thuật và các sản phẩm liên quan do Bên cấp phép phát triển và/hoặc bàn giao cho Bên được cấp phép theo thỏa thuận này, bất kể được cung cấp dưới dạng mã nguồn hay mã đối tượng.
+   2.2 "Sử dụng nội bộ" hiểu là việc sử dụng Phần mềm chỉ bởi nhân viên, nhà thầu, đại diện được ủy quyền của Bên được cấp phép cho mục đích hoạt động nội bộ của tổ chức Bên được cấp phép, và không nhằm đem lại lợi ích trực tiếp cho bất kỳ bên thứ ba nào.
 
-Ownership All right, title, and interest in and to the Software, including all intellectual property rights, are and shall remain the exclusive property of Licensor. No ownership rights are transferred by this Agreement.
+3. Quyền sở hữu
+   Tất cả các quyền sở hữu trí tuệ liên quan đến Phần mềm, bao gồm nhưng không giới hạn quyền tác giả, quyền liên quan và quyền sở hữu khác, thuộc về Bên cấp phép. Việc cấp phép theo thỏa thuận này không đồng nghĩa với việc chuyển giao quyền sở hữu.
 
-License Grant Subject to the terms and conditions of this Agreement, Licensor hereby grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to use the Software solely for Internal Use on a perpetual basis (the "Perpetual License"), unless earlier terminated as provided in Section 12.
+4. Phạm vi cấp phép
+   Bên cấp phép cấp cho Bên được cấp phép một quyền sử dụng hạn chế, không độc quyền, không được chuyển nhượng, không được ủy quyền cấp phép tiếp, và có thể bị chấm dứt, để sử dụng Phần mềm duy nhất cho mục đích Sử dụng nội bộ và theo các điều kiện của thỏa thuận này. Quyền sử dụng được cấp là vô thời hạn, trừ khi bị chấm dứt theo quy định tại Mục 12.
 
-Permitted Use Licensee may install and operate the Software on servers, workstations, or devices controlled by Licensee and may allow access to Licensee's employees, contractors, or agents solely for Internal Use as defined in Section 2.2.
+5. Quyền sử dụng được cho phép
+   Bên được cấp phép được cài đặt và vận hành Phần mềm trên máy chủ, máy trạm hoặc thiết bị do Bên được cấp phép quản lý, và cho phép nhân sự được ủy quyền truy cập để phục vụ Sử dụng nội bộ như định nghĩa tại Mục 2.2.
 
-Restrictions Except as expressly permitted in Section 5, Licensee shall not do any of the following without Licensor's prior written consent: 6.1 copy, distribute, sell, rent, lease, sublicense, transfer, or otherwise make the Software available to any third party; 6.2 disclose the Software or any portion of its source code to any third party; 6.3 modify, create derivative works of, adapt, translate, or reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software, except to the extent applicable law expressly requires such actions and then only after Licensee gives Licensor prior written notice; 6.4 use the Software to provide services to third parties, including but not limited to hosting or software-as-a-service arrangements.
+6. Hạn chế
+   Bên được cấp phép không được thực hiện các hành vi sau đây nếu không có sự đồng ý bằng văn bản của Bên cấp phép:
+   6.1 Sao chép, phát hành, phân phối, bán, cho thuê, cho mượn, cho thuê quyền sử dụng, hoặc cung cấp Phần mềm cho bên thứ ba dưới bất kỳ hình thức nào.
+   6.2 Cấp phép lại, chuyển nhượng quyền sử dụng hoặc ủy quyền quyền sử dụng Phần mềm cho bất kỳ bên thứ ba nào.
+   6.3 Tiết lộ, công bố hoặc cung cấp bất kỳ phần nào của mã nguồn Phần mềm cho bên thứ ba.
+   6.4 Sửa đổi, tạo tác phẩm phái sinh, chuyển đổi, dịch, hoặc thực hiện đảo ngược, gỡ mã, decompile, disassemble hoặc cố gắng truy xuất mã nguồn trừ khi luật pháp có quy định khác và Bên được cấp phép đã thông báo trước bằng văn bản cho Bên cấp phép.
+   6.5 Sử dụng Phần mềm để cung cấp dịch vụ cho bên thứ ba, bao gồm nhưng không giới hạn dịch vụ lưu trữ, dịch vụ phần mềm theo mô hình phần mềm như một dịch vụ.
 
-Source Code and Escrow Licensor is not required to deliver source code unless expressly agreed in a separate written agreement. If Licensee requests source code escrow, the parties may enter into a separate escrow agreement on mutually agreed terms.
+7. Giao mã nguồn và lưu ký nguồn
+   Bên cấp phép không bắt buộc phải giao mã nguồn trừ khi có thỏa thuận riêng bằng văn bản. Trong trường hợp Bên được cấp phép yêu cầu lưu ký mã nguồn, các bên có thể thỏa thuận một thỏa thuận lưu ký mã nguồn riêng và chi tiết điều kiện giải phóng mã nguồn.
 
-Confidentiality The Software and all documentation are confidential information of Licensor. Licensee shall take reasonable measures to protect such confidential information and shall not disclose it to any third party except as required by law and then only after providing prompt written notice to Licensor.
+8. Bảo mật
+   Phần mềm và toàn bộ tài liệu liên quan được xem là thông tin mật của Bên cấp phép. Bên được cấp phép phải áp dụng các biện pháp bảo mật hợp lý để bảo vệ thông tin mật và chỉ được tiết lộ hạn chế cho những người cần biết trong nội bộ, trừ khi bị yêu cầu bởi pháp luật và chỉ sau khi đã thông báo kịp thời cho Bên cấp phép.
 
-Maintenance and Support Any maintenance or support services are provided only if agreed in a separate written support agreement and subject to the terms of that agreement.
+9. Bảo trì và hỗ trợ
+   Mọi dịch vụ bảo trì, sửa lỗi hoặc hỗ trợ kỹ thuật chỉ được cung cấp khi các bên có thỏa thuận riêng về bảo trì và hỗ trợ bằng văn bản. Điều khoản, phí và phạm vi dịch vụ sẽ được quy định trong thỏa thuận đó.
 
-Warranty Disclaimer The Software is provided "as is" without warranty of any kind. Licensor disclaims all warranties, whether express, implied, statutory, or otherwise, including but not limited to any implied warranties of merchantability, fitness for a particular purpose, and noninfringement.
+10. Miễn trừ bảo đảm
+    Phần mềm được cung cấp theo nguyên trạng. Bên cấp phép không đưa ra bất kỳ bảo đảm nào, dù ngầm định hay rõ ràng, bao gồm nhưng không giới hạn khả năng thương mại hóa, phù hợp cho một mục đích cụ thể, tính chính xác hoặc không vi phạm quyền của bên thứ ba. Mọi bảo đảm cụ thể chỉ có hiệu lực nếu được quy định bằng văn bản và ký bởi đại diện có thẩm quyền của Bên cấp phép.
 
-Limitation of Liability To the maximum extent permitted by applicable law, in no event will Licensor be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profits, loss of data, or business interruption arising out of or in connection with this Agreement or the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages. Licensor's aggregate liability for all claims under this Agreement shall not exceed the total fees actually paid by Licensee to Licensor for the Software under the applicable order or agreement, if any.
+11. Giới hạn trách nhiệm
+    Trong phạm vi pháp luật cho phép, Bên cấp phép sẽ không chịu trách nhiệm đối với mọi tổn thất gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt, bao gồm nhưng không giới hạn mất lợi nhuận, mất dữ liệu hoặc gián đoạn kinh doanh phát sinh từ hoặc liên quan đến việc sử dụng hoặc không thể sử dụng Phần mềm, ngay cả khi Bên cấp phép đã được cảnh báo về khả năng xảy ra những tổn thất đó. Trách nhiệm tổng hợp của Bên cấp phép đối với các khiếu nại phát sinh từ thỏa thuận này sẽ không vượt quá tổng khoản phí thực tế mà Bên được cấp phép đã thanh toán cho Bên cấp phép liên quan đến Phần mềm, nếu có.
 
-Term and Termination This Agreement is effective as of the date of delivery of the Software and continues on a perpetual basis unless earlier terminated. Licensor may terminate this Agreement on written notice if Licensee materially breaches any provision and fails to cure within thirty (30) days after receiving written notice. Upon termination, Licensee shall cease all use of the Software and return or destroy all copies in accordance with Section 13.
+12. Hiệu lực và chấm dứt
+    Thỏa thuận này có hiệu lực kể từ ngày giao Phần mềm và tồn tại vô thời hạn, trừ khi bị chấm dứt trước thời hạn. Bên cấp phép có quyền chấm dứt thỏa thuận bằng thông báo văn bản nếu Bên được cấp phép vi phạm nghiêm trọng các điều khoản của thỏa thuận và không khắc phục trong vòng ba mươi ngày kể từ ngày nhận thông báo. Khi thỏa thuận chấm dứt, Bên được cấp phép phải ngay lập tức ngưng sử dụng Phần mềm và hoàn trả hoặc tiêu hủy mọi bản sao theo quy định tại Mục 13.
 
-Return or Destruction Upon termination or expiration of this Agreement, Licensee shall promptly return to Licensor or destroy all copies of the Software and certify in writing to Licensor that it has complied with these obligations.
+13. Hoàn trả hoặc tiêu hủy
+    Khi thỏa thuận chấm dứt hoặc kết thúc, Bên được cấp phép phải ngay lập tức hoàn trả cho Bên cấp phép hoặc tiêu hủy mọi bản sao Phần mềm và tài liệu liên quan, và cung cấp bằng chứng bằng văn bản chứng minh việc hoàn trả hoặc tiêu hủy theo yêu cầu của Bên cấp phép.
 
-Export Compliance Licensee shall comply with all applicable export control laws and regulations and shall not export or re-export the Software in violation of such laws.
+14. Tuân thủ quy định xuất khẩu
+    Bên được cấp phép có trách nhiệm tuân thủ mọi quy định về kiểm soát xuất khẩu và không xuất khẩu hoặc tái xuất khẩu Phần mềm trái với quy định của pháp luật hiện hành.
 
-Governing Law and Dispute Resolution This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction agreed by the parties. Any dispute arising out of or relating to this Agreement shall be resolved by the courts having jurisdiction in the agreed jurisdiction unless the parties agree to another method of dispute resolution in writing.
+15. Luật áp dụng và giải quyết tranh chấp
+    Thỏa thuận này được điều chỉnh và giải thích theo pháp luật của Cộng hòa xã hội chủ nghĩa Việt Nam, bao gồm Luật Sở hữu trí tuệ và các quy định pháp luật liên quan. Mọi tranh chấp phát sinh từ hoặc liên quan đến thỏa thuận này sẽ được các bên thương lượng giải quyết trước. Trong trường hợp không đạt được thỏa thuận, tranh chấp sẽ được giải quyết tại Tòa án nhân dân có thẩm quyền nơi Bên cấp phép có trụ sở hoặc theo lựa chọn khác của các bên bằng phương thức trọng tài theo quy định của pháp luật.
 
-Entire Agreement This Agreement constitutes the entire agreement between the parties with respect to its subject matter and supersedes all prior and contemporaneous agreements, understandings, and communications, whether written or oral.
+16. Toàn bộ thỏa thuận
+    Thỏa thuận này cấu thành toàn bộ thỏa thuận giữa các bên về nội dung liên quan và thay thế mọi thỏa thuận, thoả hiệp hoặc thỏa thuận hiểu biết trước đó, dù bằng văn bản hay bằng miệng.
 
-Amendments Any amendment or modification to this Agreement must be in writing and signed by authorized representatives of both parties.
+17. Sửa đổi
+    Mọi sửa đổi, bổ sung đối với thỏa thuận này phải được lập thành văn bản và ký bởi đại diện có thẩm quyền của cả hai bên.
 
-Severability If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be enforced to the maximum extent permitted and the remaining provisions shall remain in full force and effect.
+18. Tính hợp lệ riêng rẽ
+    Nếu bất kỳ điều khoản nào của thỏa thuận này bị tuyên bố vô hiệu hoặc không có hiệu lực thì các điều khoản còn lại vẫn có hiệu lực ràng buộc giữa các bên.
 
-Acceptance By using, installing, or retaining copies of the Software, Licensee acknowledges that it has read, understood, and agrees to be bound by the terms of this Agreement.
+19. Chấp nhận
+    Việc Bên được cấp phép sử dụng, cài đặt hoặc giữ lại bản sao Phần mềm được coi là bằng chứng cho thấy Bên được cấp phép đã đọc, hiểu và đồng ý bị ràng buộc bởi các điều khoản của thỏa thuận này.
 
-IN WITNESS WHEREOF, the parties have executed this Agreement as of the dates set forth below.
+ĐẠI DIỆN BÊN CẤP PHÉP
+Họ và tên: Trần Tuấn Khương
+Chức vụ: Lập trình viên
+Chữ ký: Khương
+Ngày: 26/08/2025
 
-LICENSOR Name: Trần Tuấn Khương
-
-LICENSEE Name: SUK Pickleball 
+ĐẠI DIỆN BÊN ĐƯỢC CẤP PHÉP
+Tên tổ chức: SUK Pickleball
+Họ và tên người đại diện pháp luật: Trần Trương Khoa
+Chức vụ: Người làm chủ tổ chức SUK Pickleball  
+Chữ ký: Khoa
+Ngày: 26/08/2025
