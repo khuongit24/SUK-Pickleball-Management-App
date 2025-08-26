@@ -1,0 +1,90 @@
+{
+  "ui_settings": {
+    "theme": "modern",
+    "primary_color": "#2E7D32",
+    "secondary_color": "#388E3C",
+    "accent_color": "#4CAF50",
+    "background_color": "#F8F9FA",
+    "text_color": "#212529",
+    "font_family": "Segoe UI",
+    "font_size": 10,
+    "window_width": 1536,
+    "window_height": 773,
+    "auto_save_interval": 300,
+    "show_tooltips": true,
+    "animation_enabled": true,
+    "dark_mode": false
+  },
+  "database": {
+    "type": "csv",
+    "host": "localhost",
+    "port": 5432,
+    "database": "suk_pickleball.db",
+    "username": "",
+    "password": "",
+    "connection_timeout": 30,
+    "max_connections": 10,
+    "backup_enabled": true,
+    "backup_interval": 24,
+    "encryption_enabled": false,
+    "fallback_enabled": false,
+    "circuit_breaker_enabled": true,
+    "max_retry_attempts": 3,
+    "sqlite_enabled": false
+  },
+  "backup_settings": {
+    "enabled": true,
+    "auto_backup": true,
+    "backup_interval": 24,
+    "max_backups": 30,
+    "backup_location": "backups",
+    "cloud_backup": false,
+    "cloud_provider": "",
+    "compression_enabled": true,
+    "exclude_patterns": [
+      "*.log",
+      "*.tmp",
+      "__pycache__/*"
+    ]
+  },
+  "performance": {
+    "cache_enabled": true,
+    "cache_size_mb": 100,
+    "lazy_loading": true,
+    "batch_size": 1000,
+    "async_operations": true,
+    "memory_limit_mb": 512,
+    "log_performance": true,
+    "optimize_ui": true,
+    "database_timeout": 5,
+    "auto_recovery": true,
+    "sqlite_mode": false,
+    "enhanced_data_manager": false
+  },
+  "application": {
+    "version": "2.0.0",
+    "debug_mode": false,
+    "auto_update": true,
+    "telemetry_enabled": false,
+    "crash_reporting": true,
+    "language": "vi",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "currency": "VND",
+    "date_format": "%d/%m/%Y",
+    "time_format": "%H:%M"
+  },
+  "user_preferences": {
+    "last_opened_tab": "daily_entry",
+    "recent_files": [],
+    "window_position": {
+      "x": 100,
+      "y": 100
+    },
+    "column_widths": {},
+    "sort_preferences": {},
+    "filter_preferences": {},
+    "shortcuts": {},
+    "notifications_enabled": true,
+    "sound_enabled": true
+  }
+}

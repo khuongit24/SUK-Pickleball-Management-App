@@ -1,0 +1,56 @@
+# SUK Pickleball Management System v2.1.0 Requirements
+
+# Core Python packages (already included in Python)
+# tkinter - GUI framework (built-in)
+# sqlite3 - Database (built-in) 
+# datetime - Date/time handling (built-in)
+# json - JSON processing (built-in)
+# csv - CSV file handling (built-in)
+# pathlib - Path handling (built-in)
+# dataclasses - Data structures (built-in from Python 3.7+)
+# collections - Data collections (built-in)
+# typing - Type hints (built-in)
+
+# External packages for enhanced functionality
+matplotlib>=3.5.0  # For charts and data visualization
+numpy>=1.21.0      # Numerical computing (matplotlib dependency)
+pandas>=1.3.0      # Data manipulation (optional, for advanced analytics)
+
+# PDF Generation
+fpdf2>=2.7.0
+
+# Optional packages for enhanced UI
+pillow>=8.3.0      # Image processing for icons and UI elements
+fonttools>=4.25.0  # Font handling for better UI typography
+
+# Development and testing packages (optional)
+pytest>=6.2.0     # Unit testing framework
+pytest-cov>=2.12.0 # Coverage testing
+
+# Database Support (SQLite is included with Python)
+# For PostgreSQL support (optional):
+# psycopg2-binary>=2.9.0
+
+# Note: All other modules are either built-in Python modules or custom modules
+# included in the SUK Pickleball application itself:
+# - utils.py / utils_enhanced.py
+# - models.py
+# - enhanced_data_manager.py
+# - config_manager.py
+# - error_handling.py
+# - advanced_analytics.py
+# - enhanced_ui.py
+
+# Enhanced Error Handling & Logging
+# (All using Python standard library)
+
+# Data Validation & Processing
+# (Using Python standard library - csv, json, datetime, etc.)
+
+# UI Enhancements
+# (Using tkinter - included with Python)
+
+# Development Dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
